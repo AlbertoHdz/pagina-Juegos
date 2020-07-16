@@ -1,0 +1,14 @@
+{
+  "name": "juegos",
+  "version": "1.0.0",
+  "description": "version 1 para juegos online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Draxul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
